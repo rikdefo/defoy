@@ -26,3 +26,6 @@ a {
 .list-group-item-action {
   transition: 0.2s;
 }
+.display-5 {
+  padding-top: 60px;
+}
