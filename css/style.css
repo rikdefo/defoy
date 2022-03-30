@@ -1,3 +1,8 @@
+a {
+  /* text-decoration: none;
+  color: #000; */
+  transition: 0.2s;
+}
 .footer {
   background-color: rgb(34, 31, 31);
   height: 200px;
@@ -8,4 +13,16 @@
 
 .container-content {
   margin-top: 40px;
+}
+.sticky {
+  position: sticky;
+  top: 60px;
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.list-group-item-action {
+  transition: 0.2s;
 }
