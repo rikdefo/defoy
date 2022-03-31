@@ -7,7 +7,7 @@ let navBoxContent = `
       width="30"
     />
   </a>
-  <a class="navbar-brand" href="/index.html">Defoby</a>
+  <a class="navbar-brand" href="https://rikdefo.github.io/defoy/">Defoby</a>
   <button
     class="navbar-toggler"
     type="button"
