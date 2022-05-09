@@ -29,3 +29,25 @@ a {
 .display-5 {
   padding-top: 60px;
 }
+
+.code-single {
+  background-color: black;
+  padding: 4px 6px;
+  border-radius: 4px;
+  font-weight: 600;
+  color: #ff65b2;
+}
+.text-accent {
+  color: #b339cd;
+  font-weight: 700;
+}
+.code-content {
+  color: #fff;
+}
+
+.im-hr {
+  height: 3px !important;
+  background-color: black;
+  opacity: 1;
+  margin-bottom: 40px;
+}
